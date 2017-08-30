@@ -1,0 +1,73 @@
+
+
+火币网图表
+https://www.huobi.com/p/kline?s=btccny
+
+https://www.sosobtc.com/plugin/demo#new_kline
+
+https://www.sosobtc.com/plugin/demo
+
+比特时代 K线图
+https://k.sosobtc.com/doge_btc38.html
+
+  ChartManager.getInstance().setThemeName("frame0", "Light");
+            var d = ChartSettings.get();
+            d.theme = "Light";
+            ChartSettings.save()
+
+设置白色背景
+switch_theme("light")
+
+GLOBAL_VAR.periodMap = {
+    "01w": "1week",
+    "03d": "3day",
+    "01d": "1day",
+    "12h": "12hour",
+    "06h": "6hour",
+    "04h": "4hour",
+    "02h": "2hour",
+    "01h": "1hour",
+    "30m": "30min",
+    "15m": "15min",
+    "05m": "5min",
+    "03m": "3min",
+    "01m": "1min"
+};
+ 
+
+c.stroke();//空心柱
+c.fill();//实心柱
+
+    this._colors[Theme.Color.Positive] = "#57D900";//跌价
+    this._colors[Theme.Color.Negative] = "#FF3232";//涨价
+
+var DarkTheme = create_class(Theme);
+DarkTheme.prototype.__construct
+
+y.getColor(Theme.Color.Negative);
+CandlestickPlotter
+Candle
+drawArea
+ 
+RequestData
+ChartSettings.load 
+
+GLOBAL_VAR.url
+
+    this.setUpdateMode(DataSource.UpdateMode.Append);
+//选择图表线
+ChartSettings.get()
+//选择图表线方法
+switch_period
+create_class()
+setHttpRequestParam
+
+ ChartManager.getInstance().redraw()
+ 
+1500880080000
+1500880080000
+
+
+
+
+
